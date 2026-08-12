@@ -1,0 +1,12 @@
+{
+  "name": "dialing-code-consumer",
+  "version": "1.0.0",
+  "description": "Northwind support callback dialing-code helper",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
